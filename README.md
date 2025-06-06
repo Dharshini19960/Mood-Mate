@@ -19,7 +19,6 @@ MoodMate is an empathetic chatbot designed to recognize human emotions and respo
 |------|---------|
 | `MoodMate.ipynb` | Google Colab notebook containing full chatbot logic |
 | `README.md` | Project summary and usage guide |
-| `requirements.txt` | Dependencies for running with Gradio |
 
 
 ## 🚀 How to Run (Locally or in Colab)
